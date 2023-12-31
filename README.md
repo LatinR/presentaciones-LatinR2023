@@ -54,11 +54,28 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 ## Tutoriales
 
-### 
+### Dra. Hannah Frick & Dr. Max Kuhn: Introduction to Machine Learning with tidymodels.
 
-_[]()_
+This workshop provides an introduction to machine learning with R using the tidymodels framework, a collection of packages for modeling and machine learning using tidyverse principles. We will build, evaluate, and compare predictive models. Along the way, we’ll learn about key concepts in machine learning including overfitting and resampling. Learners will gain knowledge about good predictive modeling practices, as well as hands-on experience using tidymodels packages like parsnip, rsample, yardstick, and workflows.
 
-Descripción
+* [Material]()
+
+### Toby Dylan Hocking: Using and contributing to the data.table package for efficient big data analysis
+
+data.table is one of the most efficient open-source in-memory data manipulation packages available today. First released to CRAN by Matt Dowle in 2006, it continues to grow in popularity, and now over 1400 other CRAN packages depend on data.table. This three hour tutorial will start with data reading from CSV, discuss basic and advanced data manipulation topics, and finally will end with a discussion about how you can contribute to data.table. In each part of the tutorial, you will be asked to solve a few exercises, to practice each new concept.
+
+* [Material]()
+
+### Dra. Dianne Cook: Creating data plots for effective decision-making using statistical inference with R
+
+
+* [Material]()
+
+###
+
+* [Material]()
+
+###
 
 * [Material]()
 
