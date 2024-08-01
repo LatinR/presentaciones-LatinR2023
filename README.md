@@ -54,11 +54,39 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 ## Tutoriales
 
-### 
+### Dra. Hannah Frick & Dr. Max Kuhn: Introduction to Machine Learning with tidymodels.
 
-_[]()_
+This workshop provides an introduction to machine learning with R using the tidymodels framework, a collection of packages for modeling and machine learning using tidyverse principles. We will build, evaluate, and compare predictive models. Along the way, we’ll learn about key concepts in machine learning including overfitting and resampling. Learners will gain knowledge about good predictive modeling practices, as well as hands-on experience using tidymodels packages like parsnip, rsample, yardstick, and workflows.
 
-Descripción
+* [Material]()
+
+### Toby Dylan Hocking: Using and contributing to the data.table package for efficient big data analysis
+
+data.table is one of the most efficient open-source in-memory data manipulation packages available today. First released to CRAN by Matt Dowle in 2006, it continues to grow in popularity, and now over 1400 other CRAN packages depend on data.table. This three hour tutorial will start with data reading from CSV, discuss basic and advanced data manipulation topics, and finally will end with a discussion about how you can contribute to data.table. In each part of the tutorial, you will be asked to solve a few exercises, to practice each new concept.
+
+* [Material]()
+
+### Dra. Dianne Cook: Creating data plots for effective decision-making using statistical inference with R
+
+
+* [Material]()
+
+### Riva Quiroga: Creación de reportes reproducibles con Quarto
+
+En este tutorial se hará una introducción a [Quarto](https://quarto.org/), un sistema de publicación científica y técnica que permite crear contenido dinámico usando R, Python, Julia y Observable. Durante la sesión se abordarán los aspectos generales de su uso para crear reportes con R, con especial énfasis en el trabajo en formato HTML. Para ello, se mostrará paso a paso cómo crear un reporte reproducible, cómo parametrizar su contenido, cómo editar su apariencia y cómo publicarlo utilizando GitHub Pages y Netlify.
+Para poder seguir sin problema las actividades del tutorial, es necesario tener algún grado de experiencia  con el operador "pipe" (en cualquiera de sus dos versiones: |> o |>), con las funciones principales del paquete dplyr (como filter, summarize y group_by) y con el paquete ggplot2 (por ejemplo, tener una idea general de qué hacen las funciones geom_* o saber cómo modificar la escala del eje "y" de un gráfico). Para quienes tengan interés en la publicación de un reporte utilizando el servicio GitHub Pages, es necesario tener al menos un manejo inicial de git (saber cómo hacer commits y enviar cambios a un repositorio personal)
+
+* [Material]()
+
+### Agustin Perez Santangelo, Oriol Senan y Federico Rivadeneira: Introducción a Shiny - Buenas prácticas en un entorno de producción
+
+El tutorial consistirá en la introducción de conceptos básicos haciendo foco en las buenas prácticas de desarrollo. El mismo constará de tres partes:
+
+- Estructura inicial y básica de un proyecto junto a las herramientas que podemos utilizar para asistirnos en esta tarea.
+
+- Modularización y buenas prácticas de desarrollo haciendo hincapié en conceptos de desarrollo con ejemplos.
+
+- Optimización y performance de una aplicación introduciendo paquetes y buenas prácticas.
 
 * [Material]()
 
