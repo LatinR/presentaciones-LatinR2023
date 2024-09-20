@@ -97,6 +97,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 **Martin Rodriguez Nuñez** [GitHub](https://github.com/martinnnuez/Tesis-Doctorado) | [LinkedIn](https://www.linkedin.com/in/martinnnuez/)
 
 [Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/49_Analisis_de_contaminantes_atmosfericos_con_R.pdf) - [Slides]()
+
 ---
 
 ## Comunidades
