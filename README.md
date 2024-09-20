@@ -58,7 +58,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Lucía Rosich** [Website](https://orcid.org/0000-0001-6519-0747)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/20_Control_de_ítems_por_frecuencia_en_biblioNetwork.pdf) - [Slides]()
 
 ---
 
@@ -66,7 +66,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Diego Villa Almeyda** [Website](https://www.innovalab.info/) | [GitHub](https://github.com/dievillano) | [LinkedIn](https://www.linkedin.com/in/dva92/), **Kasandra Ascuña Durand** [LinkedIn](https://www.linkedin.com/in/kasandra-ascu%C3%B1a-durand-b353501a0/) | [Twitter](https://twitter.com/Kasandr40), **Martina Guillermo Roman** [LinkedIn](https://www.linkedin.com/in/martina-gr-6681ba18b/), **Gabriel Carrasco Escobar** [Website](http://gcarrasco.cc/), **Diego Salcedo Guerra** [LinkedIn](https://www.linkedin.com/in/diego-alberto-salcedo-guerra)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/46_Asociación_patrones_desplazamiento_incidente_tuberculosis.pdf) - [Slides]()
 
 ---
 
@@ -76,7 +76,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Ana Sofía Samaniego** [LinkedIn](https://www.linkedin.com/in/ana-sof%C3%ADa-samaniego-bisio-10b870136), **Rebeca Riella**, **Cecilia Alonso** [LinkedIn](https://www.linkedin.com/in/cecilia-alonso-battaglia-802a2213a/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/34_Experiencia_del_INE_Uruguay_en_el_uso_de_R.pdf) - [Slides]()
 
 ---
 
@@ -86,7 +86,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Elina Gómez Bonaglia** [Website](http://elinagomez.com) | [GitHub](https://github.com/elinagomez) | [LinkedIn](www.linkedin.com/in/elina-gómez-bonaglia-b160273a) | [Twitter](https://twitter.com/elinagomezb)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/23_Modelos_de_aprendizaje_estadistico_para_focalizar_programas.pdf) - [Slides]()
 
 ---
 
@@ -94,43 +94,49 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Martin Rodriguez Nuñez** [GitHub](https://github.com/martinnnuez/Tesis-Doctorado) | [LinkedIn](https://www.linkedin.com/in/martinnnuez/)
 
-[Abstract]() - [Slides]()
-
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/49_Analisis_de_contaminantes_atmosfericos_con_R.pdf) - [Slides]()
 ---
 
 ### Comunidades
 
-#### *Twitter y Mujeres STEM. Análisis con R*
+#### *Twitter y Mujeres STEM. Análisis con R.*
 
-**IRMA NOEMI NO** [Website](https://flowto.it/PSjuZYqG) | [GitHub](https://github.com/irmanoemino) | [LinkedIn](https://www.linkedin.com/in/irmanoemino/), **GUADALUPE PASCAL** [LinkedIn](https://www.linkedin.com/in/GUADALUPEPASCAL/), **MILAGROS TEVEZ SAUCO** [LinkedIn](https://www.linkedin.com/in/milagros-tevez-sauco-70220715b/)
+**IRMA NOEMI NO** [Website](https://flowto.it/PSjuZYqG) | [GitHub](https://github.com/irmanoemino) | [LinkedIn](https://www.linkedin.com/in/irmanoemino/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/3_Twitter_y_Mujeres_STEM_An_li.pdf) - [Slides]()
 
 ---
 
 #### *Convertite en R Contributor: aportando traducciones a R base*
 
-**Paola Corrales** [Website](https://paocorrales.github.io/) | [GitHub](https://github.com/paocorrales) | [Mastodon](https://fosstodon.org/@paocorrales/), **María Nanton** [GitHub]( https://github.com/mcnanton) | [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-cristina-n-920170126/)
+**Paola Corrales** [Website](https://paocorrales.github.io/) | [GitHub](https://github.com/paocorrales) | [Mastodon](https://fosstodon.org/@paocorrales/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/2_Convertite_en_R_Contributor_aportando.pdf) - [Slides]()
 
 ---
 
-#### *Investigación periodística. ¿ Caso de greenwashing? Quarto Book*
+#### *Investigación periodística. ¿Caso de greenwashing? Quarto Book*
 
 **Mara Geraldina Destéfanis** [Website](https://www.maradestefanis.com/) | [LinkedIn](https://www.linkedin.com/in/maradestefanis/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/60_Investigación_periodística_¿Caso_de_greenwashing.pdf) - [Slides]()
+
 
 ---
-
 ### Datos abiertos
+
+#### *Análisis espacial de fosas clandestinas: una propuesta para estudiar los procesos de militarización en México*
+
+**Ytzel Maya** [GitHub](https://github.com/ytzmaya) | [Twitter](https://twitter.com/ytzmaya)
+
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/56_Analisis_espacial_de_fosas_clandestinas.pdf) - [Slides]()
+
 
 #### *Diseño de un flujo de investigación usando R/Bioconductor para el estudio del melanoma cutáneo*
 
-**Aylén aVILA** [GitHub](https://github.com/ImoPupato), **Luciano Anselmino** [GitHub](https://github.com/LucianoAD), **Mauricio Ariel Menacho-Marquez**
+**Aylén Avila** [GitHub](https://github.com/ImoPupato), **Luciano Anselmino** [GitHub](https://github.com/LucianoAD), **Mauricio Ariel Menacho-Marquez**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/45_Diseño_de_un_flujo_de_investigación_usando_R_Bioconductor.pdf) - [Slides]()
 
 ---
 
@@ -138,7 +144,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Paula Pereda Suárez** [Website](http://paulapereda.com) | [GitHub](https://github.com/paulapereda) | [LinkedIn](https://www.linkedin.com/in/paula-iazm%C3%ADn-pereda-su%C3%A1rez-102b05129/) | [Twitter](https://twitter.com/paubgood)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/58_Datos_pero_que_sean_moda.pdf) - [Slides]()
 
 ---
 
@@ -146,7 +152,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **iael** [Website](https://cienciassociales.edu.uy/departamento-de-economia/equipo-docente/iael-klazcko/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/57_Movilidad_educativa_intergeneracional_en_Uruguay.pdf) - [Slides]()
 
 ---
 
@@ -154,7 +160,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Ximena Catalán** [LinkedIn](https://www.linkedin.com/in/ximenacatalan/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/47_Usando_R_para_estimar_el_impacto_de_una_política_de_admisión.pdf) - [Slides]()
 
 ---
 
@@ -162,7 +168,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Ytzel Maya** [GitHub](https://github.com/ytzmaya) | [Twitter](https://twitter.com/ytzmaya)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/56_Análisis_espacial_de_fosas_clandestinas_una_propuesta_para_estudiar_los_procesos_de_militarización_en_México.pdf) - [Slides]()
 
 ---
 
@@ -170,7 +176,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Giovanny Reales Rodríguez** [GitHub](https://github.com/Ghadhara), **Edimer David Jaramillo** [Website](https://edimer.netlify.app/about.html) | [GitHub](https://github.com/Edimer) | [LinkedIn](https://www.linkedin.com/in/edimer-david-jaramillo-94a510199/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/9_Web_Scraping_y_modelos_de_forecasting.pdf) - [Slides]()
 
 ---
 
@@ -180,7 +186,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Antonio Tironi Silva** [Website](www.cienciambiental.cl) | [GitHub](https://github.com/cienciambiental) | [LinkedIn](linkedin.com/in/antonio-tironi-silva-9923624), **Stephanie Orellana** [Website](https://sporella.xyz/) | [GitHub](https://github.com/sporella/sporella) | [Mastodon](https://lile.cl/@sporella) | [Twitter](https://twitter.com/sporella)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/84_Utilizando_R_Python_y_Julia_en_detección_satelital.pdf) - [Slides]()
 
 ---
 
@@ -188,7 +194,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Rodriguez Nuñez Martin** [GitHub](https://github.com/martinnnuez) | [LinkedIn](https://www.linkedin.com/in/martinnnuez/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/5_Análisis_de_contaminantes_atmosféricos_con_R.pdf) - [Slides]()
 
 ---
 
@@ -196,7 +202,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Paulina Siri**, **Pablo González Barrios**, **Alejandra Borges**, **Venancio Riella**, **Natalia Berberian**, **Nathalia Ferraz**, **Guillermo Sniadower**, **Mauro Martínez**, **María Victoria González**, **Bettina Lado**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/85_R_as_the_core_tool_for_data_analysis_in_breeding_program.pdf) - [Slides]()
 
 ---
 
@@ -206,7 +212,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Inés M. Varas** [Website](https://inesmvaras.cl) | [GitHub]( https://github.com/raizdepie), **Eduardo Alarcón-Bustamante** [Website](https://alarcon-bustamante.cl/) | [GitHub](https://github.com/edalarconb)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/87_Bounding_a_package_for_identification_bounds.pdf) - [Slides]()
 
 ---
 
@@ -214,7 +220,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Juan Pablo Ruiz Nicolini** [Website](https://tuqmano.ar/) | [GitHub](https://github.com/TuQmano/) | [LinkedIn](https://www.linkedin.com/in/juanpabloruiznicolini/) | [Twitter](https://twitter.com/tuqmano)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/54_geoAr_datos_y_herramientas_geo_Argentina.pdf) - [Slides]()
 
 ---
 
@@ -222,7 +228,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Samuel Calderon Serrano** [Website](https://www.samuelenrique.com) | [GitHub](https://github.com/calderonsamuel) | [LinkedIn](https://www.linkedin.com/in/samuelcalderon) | [Twitter](https://twitter.com/samucalse), **Leanna Zuñiga Montaño** [GitHub](https://github.com/lezunigam) | [LinkedIn](https://www.linkedin.com/in/lezunigam) | [Twitter](https://twitter.com/LeannaZuniga), **Gelin Espinoza Prado** [GitHub](https://github.com/gpespinoza) | [LinkedIn](https://www.linkedin.com/in/gelin-espinoza-prado/), **Diego Sanchez Florez** [GitHub](https://github.com/sanchezflorezdiego) | [LinkedIn](https://www.linkedin.com/in/diego-alonso-sanchez-florez-ab9ba9207) | [Twitter](https://twitter.com/chanchez11)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/28_Sistema_de_gestión_de_proyectos_para_la_administración_pública.pdf) - [Slides]()
 
 ---
 
@@ -230,7 +236,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Samuel Calderon Serrano** [Website](https://www.samuelenrique.com) | [GitHub](https://github.com/calderonsamuel) | [LinkedIn](https://linkedin.com/in/samuelcalderon) | [Twitter](https://twitter.com/samucalse)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/33_Un_paquete_para_facilitar_la_rendición_de_cuentas_peruano.pdf) - [Slides]()
 
 ---
 
@@ -238,7 +244,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Elio Campitelli** [Website](https://eliocamp.github.io/), **Paola Corrales** [Website](https://paocorrales.github.io/), **Marcos Angelini**, **Darío Rodriguez**, **Yanina Noemí Bellini Saibene** [Website](https://yabellini.netlify.app/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/13_SisINTAR_paquete_para_gestionar_datos_de_perfiles_de_suelos.pdf) - [Slides]()
 
 ---
 
@@ -246,7 +252,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Franco Ivan Scarafia**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/80_Sí_pero_no_Qué_hacer_cuando_ningún_paquete_es_suficiente.pdf) - [Slides]()
 
 ---
 
@@ -254,7 +260,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **N T Dominguez** [GitHub](https://github.com/ntorresd) | [LinkedIn](https://www.linkedin.com/in/nicolas-torres-dom%C3%ADnguez-11b948151), **Zulma M Cucunubá** [GitHub](https://github.com/zmcucunuba) | [LinkedIn](https://www.linkedin.com/in/zulma-m-cucunub%C3%A1-4a6a50b7) | [Mastodon](https://mstdn.science/@ZulmaCucunuba) | [Twitter](https://twitter.com/ZulmaCucunuba), **Ben Lambert** [GitHub](https://github.com/ben18785) | [LinkedIn](https://www.linkedin.com/in/ben-lambert-6933636), **Pierre Nouvellet** [Website](https://profiles.sussex.ac.uk/p191234-pierre-nouvellet) | [LinkedIn](https://www.linkedin.com/in/pierre-nouvellet-b252a3218)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/50_Uncovering_Epidemics_serofoi.pdf) - [Slides]()
 
 ---
 
@@ -262,7 +268,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Alba Martinez-Ruiz**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/39_R_Package_Compare_Wold_and_Lohmöller_PLS_Mode_B.pdf) - [Slides]()
 
 ---
 
@@ -270,7 +276,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **RConsortium** [Website](https://www.r-consortium.org/) | [LinkedIn](https://www.linkedin.com/company/r-consortium/) | [Mastodon](https://mastodon.social/@RConsortium@fosstodon.org) | [Twitter](https://twitter.com/Rconsortium)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/92_Charla_sponsor_RConsortium.pdf) - [Slides]()
 
 ---
 
@@ -278,7 +284,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Sebastián Lucas**, **Richard Detomasi** [GitHub](https://github.com/RichDeto) | [LinkedIn](https://www.linkedin.com/in/richard-detomasi-691b242b/) | [Mastodon](https://fosstodon.org/@RichDeto) | [Twitter](https://twitter.com/RichardDetomasi)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/38_DADverse_Simplificando_el_procesamiento_de_datos.pdf) - [Slides]()
 
 ---
 
@@ -286,7 +292,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Santiago Nicotera** [LinkedIn](https://www.linkedin.com/in/santiago-nicotera-a8a65a1b7/), **Richard Detomasi** [GitHub](https://github.com/RichDeto), **Felipe Schnaiderman**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/35_GPSperfiles_Automatización_del_Gasto_Público_Social.pdf) - [Slides]()
 
 ---
 
@@ -294,7 +300,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Luciane Ferreira Alcoforado** [GitHub](https://github.com/Lucianea), **João Paulo Martins dos Santos**, **Orlando Celso Longo**, **Ariel Levy**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/16_Mandalas_Uma_Abordagem_para_Desenvolver_Habilidades_Humanas.pdf) - [Slides]()
 
 ---
 
@@ -302,7 +308,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Luciane Ferreira Alcoforado** [GitHub](https://github.com/Lucianea), **Orlando Celso Longo**, **Ariel Levy**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/19_Aplicação_do_método_de_julgamento_holístico.pdf) - [Slides]()
 
 ---
 
@@ -310,7 +316,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Camila Achuri**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/21_ggMagic_Paquete_de_recomendaciones_para_visualización_de_datos.pdf) - [Slides]()
 
 ---
 
@@ -318,7 +324,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Martin Umpierrez Battaglino** [Website](http://www.cebiobe.edu.uy/) | [LinkedIn](https://www.linkedin.com/in/martin-umpierrez-battaglino-1268601ba/), **Ignacio Alvarez Castro** [Website](https://iesta.fcea.udelar.edu.uy/integrantes/ignacio-alvarez-castro/), **Nicolás Schmidt** [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-schmidt-6a6b9782/), **Manuel Ibarra** [Website](http://www.cebiobe.edu.uy/) | [LinkedIn](https://www.linkedin.com/in/manuel-ibarra-63345063/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/36_preDose_evaluación_externa_de_modelos_nlme.pdf) - [Slides]()
 
 ---
 
@@ -326,7 +332,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Freddy Hernández Barajas** [Website](https://fhernanb.github.io) | [GitHub](https://github.com/fhernanb), **Olga Cecilia Úsuga Manco** [GitHub](https://github.com/ousuga), **Carmen Elena Patiño Rodríguez**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/51_RelDists_paquete_de_R_para_análisis_de_confiabilidad.pdf) - [Slides]()
 
 ---
 
@@ -336,7 +342,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Yanina Bellini Saibene** [Website](https://yabellini.netlify.app/), **Elio Campitelli**, **Marcos Prunello**, **Mauro Lepore**, **Haydee Svab**, **Beatriz Milz**, **Carolina Pradier**, **César Luis Aybar**, **Paola Corrales**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/68_Programa_de_Campeonas_y_Campeones_de_rOpenSci_en_Latinoamérica.pdf) - [Slides]()
 
 ---
 
@@ -344,7 +350,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Javier Lema** [LinkedIn](www.linkedin.com/in/federico-javier-lema-ba815094)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/32_Hacia_una_estrategia_de_generación_procesamiento_de_datos_en_la_ciudad.pdf) - [Slides]()
 
 ---
 
@@ -352,7 +358,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Zulma M. Cucunubá** [Website](https://data.org/people/zulma-m-cucunuba/) | [GitHub](https://github.com/zmcucunuba) | [LinkedIn](https://www.linkedin.com/in/zulma-m-cucunub%C3%A1-4a6a50b7/) | [Mastodon](https://mstdn.science/@ZulmaCucunuba) | [Twitter](https://twitter.com/ZulmaCucunuba), **Laura Gómez-Bermeo** [GitHub](https://github.com/lgbermeo) | [LinkedIn](linkedin.com/in/laura-gómez-bermeo) | [Twitter](https://twitter.com/lgbermeo)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/44_E-learning_con_perspectiva_de_género.pdf) - [Slides]()
 
 ---
 
@@ -360,7 +366,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Yanina Bellini Saibene** [Website](https://yabellini.netlify.app/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/75_Análisis_de_colaboración_en_comunidades_por_medio_de_análisis_de_redes_sociales.pdf) - [Slides]()
 
 ---
 
@@ -368,7 +374,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Bruno Tancredi**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/66_Uso_de_R_en_la_enseñanza.pdf) - [Slides]()
 
 ---
 
@@ -376,7 +382,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Ignacio Lynch** [LinkedIn](https://www.linkedin.com/in/ignaciolynch/), **Mauricio Garcia** [LinkedIn](https://www.linkedin.com/in/mauriciogarciaquiroga/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/43_Uso_de_R_para_la_enseñanza_de_buenas_prácticas.pdf) - [Slides]()
 
 ---
 
@@ -384,7 +390,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Natalia Labadie** [GitHub](https://github.com/natilabb) | [LinkedIn](https://www.linkedin.com/in/natalia-labadie-4932311b5) | [Mastodon](https://masto.ai/@natilabadie) | [Twitter](https://twitter.com/natilabadie), **Joaquín Ferreyra** [GitHub](https://github.com/joa-ferreyra) | [LinkedIn](https://www.linkedin.com/in/j-ferreyra/) | [Twitter](https://twitter.com/_joaferreyra)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/43_Uso_de_R_para_la_enseñanza_de_buenas_prácticas.pdf) - [Slides]()
 
 ---
 
@@ -392,7 +398,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Stephanny Linares** [Website](https://iesta.fcea.udelar.edu.uy/integrantes/linares-stephanny/) | [LinkedIn](https://www.linkedin.com/in/stephanny-linares-577a0b95), **Marco Scavino** [Website](https://iesta.fcea.udelar.edu.uy/integrantes/marco-scavino/) | [LinkedIn](https://www.linkedin.com/in/marco-scavino-9399b121/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/59_Explorando_la_dificultad_de_los_ítems_en_las_pruebas_de_estudiantes.pdf) - [Slides]()
 
 ---
 
@@ -400,7 +406,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Martín Pratto Burgos** [Website](https://orcid.org/0000-0001-5197-3601)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/6_Uso_de_R_en_la_modelización_de_un_sistema_de_previaturas_de_unidades_curriculares_mediante_grafos.pdf) - [Slides]()
 
 ---
 
@@ -408,9 +414,9 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 #### *Aproximación a la distribución funcional entre trabajadores. Un análisis a partir de técnicas multivariadas para el período 2006-2021 en Uruguay*
 
-**Fabricio** [GitHub](https://github.com/FabricioMch) | [LinkedIn](https://www.linkedin.com/in/fabricio-machado-5a1269208/) | [Twitter](https://twitter.com/Fabricio80000)
+**Fabricio Machado** [GitHub](https://github.com/FabricioMch) | [LinkedIn](https://www.linkedin.com/in/fabricio-machado-5a1269208/) | [Twitter](https://twitter.com/Fabricio80000)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/15_Aproximación_a_la_distribución_funcional_entre_trabajadores.pdf) - [Slides]()
 
 ---
 
@@ -418,7 +424,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Ana McAlister** [LinkedIn](https://www.linkedin.com/in/ana-julia-mc-alister-67634a223/), **Paula Silva** [LinkedIn](https://www.linkedin.com/in/paula-silva-87547662/), **Fernando Pereira**, **Richard García**, **Noelia Pérez**, **Monika Kavanová**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/69_Utilización_de_R_en_la_caracterización_genética_de_trigo.pdf) - [Slides]()
 
 ---
 
@@ -426,7 +432,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Fabiola Aguilar Rojas** [GitHub](https://github.com/aguilarfabiola) | [LinkedIn](https://www.linkedin.com/in/fabiola-aguilar-rojas/), **Angela Arriagada Rivera** [LinkedIn](https://www.linkedin.com/in/angela-arriagada-rivera-316293274) | [Twitter](https://twitter.com/aarriagada_), **Marcelo Rodriguez Gallardo**, **Alejandra Tapia Silva**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/2_Comparative_Analysis_of_Machine_Learning_Models_for_Survival_Analysis.pdf) - [Slides]()
 
 ---
 
@@ -434,7 +440,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Diego Vallarino** [Website](https://medium.com/@diegovallarino) | [LinkedIn](https://www.linkedin.com/in/diegovallarino-datascientist/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/2_Comparative_Analysis_of_Machine_Learning_Models_for_Survival_Analysis.pdf) - [Slides]()
 
 ---
 
@@ -442,7 +448,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Alejandra Marroig** [Website](https://iesta.fcea.udelar.edu.uy/integrantes/alejandra-marroig/) | [Twitter](https://twitter.com/lalemarroig), **Fernando Massa** [Website](https://iesta.fcea.udelar.edu.uy/integrantes/fernando-massa/), **Graciela Muniz Terrera** [Website](https://www.ohio.edu/medicine/muniz)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/71_Normas_longitudinales_con_el_envejecimiento_de_la_fragilidad.pdf) - [Slides]()
 
 ---
 
@@ -450,7 +456,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Luz Gibbons** [LinkedIn](https://www.linkedin.com/in/luz-gibbons-35a190b/?originalSubdomain=ar)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/83_Uso_de_R_para_el_análisis_de_un_ensayo_clínico.pdf) - [Slides]()
 
 ---
 
@@ -460,7 +466,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Ignacio Alcántara** [GitHub](https://github.com/NAlcan) | [LinkedIn](https://www.linkedin.com/in/ialcantara16/), **Andrea Somma**, **Felipe García-Rodríguez**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/25_Afirmaciones_extraordinarias_evidencia_extraordinaria.pdf) - [Slides]()
 
 ---
 
@@ -468,7 +474,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Luis D. Verde Arregoitia** [Website](https://liomys.mx) | [GitHub](https://github.com/LuisDVA) | [Twitter](https://twitter.com/LuisDVerde)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/14_Mejorando_los_llamados_a_paquetes.pdf) - [Slides]()
 
 ---
 
@@ -476,7 +482,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Ariel Levy** [GitHub](https://github.com/Alevy59) | [LinkedIn](https://www.linkedin.com/in/ariel-levy-3623136/), **Beatriz Bertolino Oliver**, **Marcus Antonio Cardoso Ramalho** [Website](http://marcusramalho.tech/) | [GitHub](https://github.com/nextmarte) | [LinkedIn](https://www.linkedin.com/in/marcus-ramalho-8a440545/) | [Twitter](@nextmarcus)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/31_Análise_de_correlação_cruzada_das_séries_temporais_com_R.pdf) - [Slides]()
 
 ---
 
@@ -484,15 +490,15 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Ariel Levy** [GitHub](https://github.com/Alevy59) | [LinkedIn](https://www.linkedin.com/in/ariel-levy-3623136/), **Luciane Ferreira Alcoforado** [GitHub](https://github.com/Lucianea) | [LinkedIn](https://www.linkedin.com/in/luciane-alcoforado-4a344a101/), **Marcus Antonio Cardoso Ramalho** [Website](http://marcusramalho.tech/) | [GitHub](https://github.com/nextmarte) | [LinkedIn](https://www.linkedin.com/in/marcus-ramalho-8a440545/) | [Twitter](@nextmarcus), **Orlando Celso Longo**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/30_Pacotes_da_linguagem_R_para_análise_de_escalas_Likert.pdf) - [Slides]()
 
 ---
 
-#### *Modelos predictivos y selección de variables en el monitoreo de enfermedades  agrícolas: un enfoque con R*
+#### *Modelos predictivos y selección de variables en el monitoreo de enfermedades agrícolas: un enfoque con R*
 
 **Franco Suarez** [GitHub](https://github.com/FrancoMSuarez) | [LinkedIn](www.linkedin.com/in/francomsuarez), **Juan Manuel Fiore** [GitHub](https://github.com/JMFiore)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/24_Modelos_predictivos_y_selección_de_variables_en_agricultura.pdf) - [Slides]()
 
 ---
 
@@ -500,7 +506,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Paola Corrales** [Website](https://paocorrales.github.io/) | [GitHub](https://github.com/paocorrales) | [Mastodon](https://fosstodon.org/@paocorrales)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/81_Lo_que_aprendí_sobre_R_y_reproducibilidad_durante_mi_doctorado.pdf) - [Slides]()
 
 ---
 
@@ -510,7 +516,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Mauricio Pittamiglio** [GitHub](https://github.com/Mauri14)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/40_Visualizador_de_indicadores_del_mercado_laboral_con_R-Shiny.pdf) - [Slides]()
 
 ---
 
@@ -518,7 +524,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Santiago García Sánchez** [Website](https://sgs2000.github.io/) | [GitHub](https://github.com/SGS2000) | [LinkedIn](https://www.linkedin.com/in/santiago-garcia-sanchez-21b20a1a9/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/10_App_Shiny_para_explorar_temas_de_ggplot2.pdf) - [Slides]()
 
 ---
 
@@ -526,7 +532,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Luís G. Silva e Silva** [Website](https://lgsilvaesilva.github.io/) | [GitHub](https://github.com/lgsilvaesilva) | [LinkedIn](https://www.linkedin.com/in/lgsilvaesilva/) | [Twitter](https://twitter.com/lgsilvaesilva)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/42_Producing_Early_Warnings_through_Online_News_With_R.pdf) - [Slides]()
 
 ---
 
@@ -534,7 +540,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Darío Padula** [GitHub](https://github.com/dariopadula), **Leticia Debera**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/29_Visualizaciones_en_Shiny_para_la_toma_de_decisiones_en_movilidad.pdf) - [Slides]()
 
 ---
 
@@ -542,7 +548,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Noelia Catellana**, **Fernando Javier Argento**, **Diego Marfetan Molina**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/76_Shiny_app_para_meta_análisis_interactivos.pdf) - [Slides]()
 
 ---
 
@@ -550,7 +556,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Francisco Zambrano** [Website](https://frzambra.github.io) | [GitHub](https://github.com/frzambra) | [LinkedIn](https://www.linkedin.com/in/frzambra/) | [Twitter](https://twitter.com/frzambra), **Joshua Kunst** [Website](https://jkunst.com/) | [GitHub](https://github.com/jbkunst) | [LinkedIn](https://www.linkedin.com/in/joshuakunst/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/72_Un_observatorio_de_sequía_para_Chile.pdf) - [Slides]()
 
 ---
 
@@ -558,7 +564,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Oscar Montañés**, **Natalia da Silva** [Website](http://natydasilva.com) | [GitHub](https://github.com/natydasilva) | [Mastodon](https://mastodon.social/@pacocuak) | [Twitter](@pacocuak)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/74_Shiny_en_producción_Monitor_Educativo.pdf) - [Slides]()
 
 ---
 
@@ -566,7 +572,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Patricia Loto** [GitHub](https://github.com/PatriLoto) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/) | [Twitter](https://twitter.com/patriloto), **Jesica Formoso** [GitHub](https://github.com/JFormoso) | [LinkedIn](https://www.linkedin.com/in/jesica-formoso-16ab4649/) | [Twitter](https://twitter.com/JesiFormoso), **Irene Vazano** [GitHub](https://github.com/4iro) | [LinkedIn](https://www.linkedin.com/in/irene-vazano/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/48_Shiny_app_para_mapeo_de_comunidades_y_ciencia_abierta.pdf) - [Slides]()
 
 ---
 
@@ -574,7 +580,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Valentina Cortés A.** [LinkedIn](https://www.linkedin.com/in/valentina-cort%C3%A9s-ayala), **Riva Quiroga** [Website](https://rivaquiroga.cl/) | [GitHub](https://github.com/rivaquiroga/) | [LinkedIn](https://www.linkedin.com/in/riva-quiroga/) | [Mastodon](https://mastodon.social/@rivaquiroga) | [Twitter](https://twitter.com/rivaquiroga), **Karlla Muñoz** [LinkedIn](https://www.linkedin.com/in/karlla-mu%C3%B1oz-c%C3%A1ceres)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/89_Legibilidad_Mejorar_la_comunicación_en_Banco_Central_Chile.pdf) - [Slides]()
 
 ---
 
@@ -582,7 +588,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Juan Pablo Ruiz Nicolini** [Website](https://tuqmano.ar/) | [GitHub](https://github.com/tuqmano) | [LinkedIn](https://www.linkedin.com/in/juanpabloruiznicolini/) | [Twitter](https://twitter.com/tuqmano), **Juan Gabriel Juara**, **Elián Soutullo** [LinkedIn](https://www.linkedin.com/in/eli%C3%A1n-soutullo/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/55_Shiny_para_useRs_que_no_usan_R.pdf) - [Slides]()
 
 ---
 
@@ -590,7 +596,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Andrea Gomez Vargas** [GitHub](https://github.com/SoyAndrea), **Maria Florencia Bathory** [LinkedIn](https://www.linkedin.com/in/mfbathory/), **Juan Manuel Damiani** [LinkedIn](https://www.linkedin.com/in/jmdamiani5/), **Barbara Estévez Leston** [LinkedIn](https://ar.linkedin.com/in/b%C3%A1rbara-est%C3%A9vez-leston-74ba224a), **Jimena Fernández Moyano** [LinkedIn](https://www.linkedin.com/in/jimena-fern%C3%A1ndez-moyano-0326b2a0/), **Leandro Olivo**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/26_SIES_Argentina_R_y_Shiny_en_la_difusión_de_estadísticas_oficiales.pdf) - [Slides]()
 
 ---
 
@@ -598,7 +604,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Gabriela Mathieu** [Website](https://gabrielamathieu.rbind.io/) | [GitHub](https://github.com/calcita/) | [LinkedIn](https://www.linkedin.com/in/mathieugabriela/), **Rodrigo Ceni**, **Elina Álvarez**, **Román Sugo**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/77_Monitor_de_Compras_Públicas.pdf) - [Slides]()
 
 ---
 
@@ -606,7 +612,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Juan Manuel Fiore** [GitHub](https://github.com/JMFiore), **Franco Suarez**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/27_Desarrollo_de_modelos_predictivos_de_ocurrencia_de_patógenos.pdf) - [Slides]()
 
 ---
 
@@ -614,7 +620,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Juan Manuel Fiore**, **Franco Suarez**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/27_Desarrollo_de_modelos_predictivos_de_ocurrencia_de_patógenos.pdf) - [Slides]()
 
 ---
 
@@ -624,7 +630,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Jimena Padín** [GitHub](https://github.com/JimenaPadin), **Natalia da Silva** [Website](http://natydasilva.com) | [GitHub](https://github.com/natydasilva) | [Mastodon](https://mastodon.social/@pacocuak) | [Twitter](https://twitter.com/pacocuak)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/65_Evaluación_de_uso_de_las_plataformas_educativas.pdf) - [Slides]()
 
 ---
 
@@ -634,7 +640,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Guillermina Suárez**, **Lucía Rosich**, **Dinorah De León**, **Camila Muniz**, **Irina Sánchez**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/18_Generación_masiva_de_gráficos_intervención_comportamental.pdf) - [Slides]()
 
 ---
 
@@ -642,7 +648,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Vernadet Bianchinotti** [GitHub](https://github.com/PecoTina) | [LinkedIn](https://www.linkedin.com/in/VernadetBianchinotti) | [Twitter](https://twitter.com/PeCoTiNa7), **Patricia González Vainer**, **Gonzalo Suárez** [GitHub](https://github.com/suarezveirano) | [LinkedIn](https://uy.linkedin.com/in/suarezveirano)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/86_Primera_aproximación_al_efecto_de_Eprinomectina.pdf) - [Slides]()
 
 ---
 
