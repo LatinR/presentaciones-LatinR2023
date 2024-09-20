@@ -50,9 +50,11 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 - Max Kuhn currently works as a software engineer at Posit (formerly RStudio), leading software development in the field of statistical modeling. He previously served as the Director of Nonclinical Statistics at Pfizer Global. He is the author of numerous R packages with a focus on statistical learning and reproducible research (https://www.rstudio.com/authors/max-kuhn/)
 
 
-## Contribuciones
+# Contribuciones
 
-### Análisis de redes
+
+
+## Análisis de redes
 
 #### *Control de ítems por frecuencia en la función biblioNetwork*
 
@@ -70,7 +72,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 ---
 
-### Aplicaciones de R en instituciones públicas/estatales
+## Aplicaciones de R en instituciones públicas/estatales
 
 #### *Experiencia del INE Uruguay en el uso de R para el cálculo del IPC*
 
@@ -80,7 +82,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 ---
 
-### Aprendizaje automático
+## Aprendizaje automático
 
 #### *Modelos de aprendizaje estadístico para focalizar Programas de Transferencias Condicionadas (PTC). El caso de AFAM-PE de Uruguay.*
 
@@ -97,7 +99,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 [Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/49_Analisis_de_contaminantes_atmosfericos_con_R.pdf) - [Slides]()
 ---
 
-### Comunidades
+## Comunidades
 
 #### *Twitter y Mujeres STEM. Análisis con R.*
 
@@ -123,7 +125,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 
 ---
-### Datos abiertos
+## Datos abiertos
 
 #### *Análisis espacial de fosas clandestinas: una propuesta para estudiar los procesos de militarización en México*
 
@@ -180,7 +182,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 ---
 
-### Datos espaciales
+## Datos espaciales
 
 #### *Utilizando R, Python y Julia para el desarrollo de un sistema de detección satelital de una especie invasora (Castor canadiense) en la Patagonia.*
 
@@ -206,7 +208,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 ---
 
-### Desarrollo de paquetes
+## Desarrollo de paquetes
 
 #### *{Bounding} a package for identification bounds*
 
@@ -270,13 +272,6 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 [Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/39_R_Package_Compare_Wold_and_Lohmöller_PLS_Mode_B.pdf) - [Slides]()
 
----
-
-#### *Charla sponsor: RConsortium*
-
-**RConsortium** [Website](https://www.r-consortium.org/) | [LinkedIn](https://www.linkedin.com/company/r-consortium/) | [Mastodon](https://mastodon.social/@RConsortium@fosstodon.org) | [Twitter](https://twitter.com/Rconsortium)
-
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/92_Charla_sponsor_RConsortium.pdf) - [Slides]()
 
 ---
 
@@ -336,7 +331,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 ---
 
-### Enseñanza
+## Enseñanza
 
 #### *Programa de Campeonas y Campeones de rOpenSci en Latinoamérica*
 
@@ -410,7 +405,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 ---
 
-### Modelos estadísticos
+## Modelos estadísticos
 
 #### *Aproximación a la distribución funcional entre trabajadores. Un análisis a partir de técnicas multivariadas para el período 2006-2021 en Uruguay*
 
@@ -460,7 +455,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 ---
 
-### Reproducibilidad
+## Reproducibilidad
 
 #### *¿Afirmaciones extraordinarias exigen evidencia extraordinaria? Reproducibilidad y datos abiertos en calidad de agua*
 
@@ -510,7 +505,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 ---
 
-### Shiny
+## Shiny
 
 #### *Visualizador de indicadores del mercado laboral con R-Shiny*
 
@@ -624,7 +619,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 ---
 
-### Uso de R en investigación
+## Uso de R en investigación
 
 #### *Evaluación de uso de las plataformas educativas*
 
@@ -634,7 +629,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 ---
 
-### Visualización de datos
+## Visualización de datos
 
 #### *Generación masiva de gráficos, pieza clave de una intervención comportamental para promover la asistencia escolar*
 
@@ -651,6 +646,13 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 [Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/86_Primera_aproximación_al_efecto_de_Eprinomectina.pdf) - [Slides]()
 
 ---
+
+
+### *Charla sponsor: RConsortium*
+
+**RConsortium** [Website](https://www.r-consortium.org/) | [LinkedIn](https://www.linkedin.com/company/r-consortium/) | [Mastodon](https://mastodon.social/@RConsortium@fosstodon.org) | [Twitter](https://twitter.com/Rconsortium)
+
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/92_Charla_sponsor_RConsortium.pdf) - [Slides]()
 
 
 
