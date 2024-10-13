@@ -38,8 +38,7 @@ by [Dr. Fabrizio Scrollini](https://www.linkedin.com/in/fabrizioscrollini/)
 - Fabrizio Scrollini é o Diretor para a América Latina e o Caribe na Equipe Humanitária do OpenStreetMap (Equipo Humanitario de OpenStreetMap). Ele co-fundou a Iniciativa Latino Americana por Dados Abertos (Iniciativa Latinoamericana por los Datos Abiertos - ILDA) e atualmente preside seu conselho. Ele explorou o uso de dados e aprendizado de máquina (IA) para desenvolvimento, transparência e inovação na América Latina, com foco especial no uso de dados para o bem público. Nesse papel, Fabrizio colaborou com a sociedade civil, governos e academia para desenvolver iniciativas e pesquisas relevantes para o contexto latino-americano. Ele é um dos consultores da Carta Internacional de Dados Abertos (Carta Internacional de los Datos Abiertos) e contribui ativamente para tópicos de governo aberto em nossa região.
 - Fabrizio Scrollini is the Director for Latin America and the Caribbean at the Humanitarian OpenStreetMap Team (Equipo Humanitario de OpenStreetMap). He co-founded the Latin American Open Data Initiative (Iniciativa Latinoamericana por los Datos Abiertos - ILDA) and currently serves as its board chair. He has explored the use of data and machine learning (AI) for development, transparency, and innovation in Latin America, with a particular focus on using data for the public good. In his role, Fabrizio has collaborated with civil society, government, and academia to develop relevant initiatives and research in the Latin American context. He is one of the advisors to the International Open Data Charter (Carta Internacional de los Datos Abiertos) and actively contributes to open government topics in our region.
 
-* [Slides]()
-* [Video]()
+* [Video](https://www.youtube.com/live/6sRsyE6_QkU?si=pcNYr-Ia0dfN4RLX)
 
 ### 
 
@@ -49,9 +48,9 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 - Max Kuhn atualmente trabalha como engenheiro de software na Posit (anteriormente RStudio), liderando o desenvolvimento de software na área de modelagem estatística. Anteriormente, ele atuou como Diretor de Estatística Não Clínica na Pfizer Global. Ele é autor de inúmeros pacotes R com foco em aprendizado estatístico e pesquisa reprodutível (https://www.rstudio.com/authors/max-kuhn/)
 - Max Kuhn currently works as a software engineer at Posit (formerly RStudio), leading software development in the field of statistical modeling. He previously served as the Director of Nonclinical Statistics at Pfizer Global. He is the author of numerous R packages with a focus on statistical learning and reproducible research (https://www.rstudio.com/authors/max-kuhn/)
 
+* [Video](https://youtube.com/live/weqWXjGvYp4)
 
 # Contribuciones
-
 
 
 ## Análisis de redes
