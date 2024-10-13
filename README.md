@@ -2,10 +2,10 @@
 
 Acceso a todo el material de tutoriales, presentaciones y papers de la edición 2023 de LatinR
 
-1. [Charlas invitadas](#Keynotes)
+1. [Charlas principales invitadas](#Keynotes)
 2. [Contribuciones](#Contribuciones)
-4. [Tutoriales](#Tutoriales)
-5. [Actas](#Actas)
+3. [Tutoriales](#Tutoriales)
+
 
 ## Keynotes
 
