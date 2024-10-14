@@ -218,7 +218,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Juan Pablo Ruiz Nicolini** [Website](https://tuqmano.ar/) | [GitHub](https://github.com/TuQmano/) | [LinkedIn](https://www.linkedin.com/in/juanpabloruiznicolini/) | [Twitter](https://twitter.com/tuqmano)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/54_geoAr_datos_y_herramientas_.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/geoAr - LatinR2023.pdf)
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/54_geoAr_datos_y_herramientas_.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/geoAr-LatinR2023.pdf)
 
 ---
 
@@ -275,7 +275,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Sebastián Lucas**, **Richard Detomasi** [GitHub](https://github.com/RichDeto) | [LinkedIn](https://www.linkedin.com/in/richard-detomasi-691b242b/) | [Mastodon](https://fosstodon.org/@RichDeto) | [Twitter](https://twitter.com/RichardDetomasi)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/38_DADverse_Simplificando_el_p.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/DADverse Simplificando el procesamiento de datos en ambientes de uso restringido_.pdf)
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/38_DADverse_Simplificando_el_p.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/DADverse.pdf)
 
 ---
 
