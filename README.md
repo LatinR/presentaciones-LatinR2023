@@ -2,7 +2,7 @@
 
 Acceso a todo el material de tutoriales, presentaciones y papers de la edición 2023 de LatinR
 
-1. [Charlas invitadas](#Keynotes)
+1. [Charlas principales invitadas](#Keynotes)
 2. [Contribuciones](#Contribuciones)
 3. [Tutoriales](#Tutoriales)
 
@@ -38,9 +38,9 @@ by [Dr. Fabrizio Scrollini](https://www.linkedin.com/in/fabrizioscrollini/)
 - Fabrizio Scrollini é o Diretor para a América Latina e o Caribe na Equipe Humanitária do OpenStreetMap (Equipo Humanitario de OpenStreetMap). Ele co-fundou a Iniciativa Latino Americana por Dados Abertos (Iniciativa Latinoamericana por los Datos Abiertos - ILDA) e atualmente preside seu conselho. Ele explorou o uso de dados e aprendizado de máquina (IA) para desenvolvimento, transparência e inovação na América Latina, com foco especial no uso de dados para o bem público. Nesse papel, Fabrizio colaborou com a sociedade civil, governos e academia para desenvolver iniciativas e pesquisas relevantes para o contexto latino-americano. Ele é um dos consultores da Carta Internacional de Dados Abertos (Carta Internacional de los Datos Abiertos) e contribui ativamente para tópicos de governo aberto em nossa região.
 - Fabrizio Scrollini is the Director for Latin America and the Caribbean at the Humanitarian OpenStreetMap Team (Equipo Humanitario de OpenStreetMap). He co-founded the Latin American Open Data Initiative (Iniciativa Latinoamericana por los Datos Abiertos - ILDA) and currently serves as its board chair. He has explored the use of data and machine learning (AI) for development, transparency, and innovation in Latin America, with a particular focus on using data for the public good. In his role, Fabrizio has collaborated with civil society, government, and academia to develop relevant initiatives and research in the Latin American context. He is one of the advisors to the International Open Data Charter (Carta Internacional de los Datos Abiertos) and actively contributes to open government topics in our region.
 
-* [Video](https://www.youtube.com/watch?v=6sRsyE6_QkU)
 
-### 
+* [Video](https://www.youtube.com/live/6sRsyE6_QkU?si=pcNYr-Ia0dfN4RLX)
+
 
 by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
@@ -48,7 +48,9 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 - Max Kuhn atualmente trabalha como engenheiro de software na Posit (anteriormente RStudio), liderando o desenvolvimento de software na área de modelagem estatística. Anteriormente, ele atuou como Diretor de Estatística Não Clínica na Pfizer Global. Ele é autor de inúmeros pacotes R com foco em aprendizado estatístico e pesquisa reprodutível (https://www.rstudio.com/authors/max-kuhn/)
 - Max Kuhn currently works as a software engineer at Posit (formerly RStudio), leading software development in the field of statistical modeling. He previously served as the Director of Nonclinical Statistics at Pfizer Global. He is the author of numerous R packages with a focus on statistical learning and reproducible research (https://www.rstudio.com/authors/max-kuhn/)
 
-* [Video](https://www.youtube.com/watch?v=weqWXjGvYp4)
+
+* [Video](https://youtube.com/live/weqWXjGvYp4)
+
 
 # Contribuciones
 
@@ -649,25 +651,37 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 This workshop provides an introduction to machine learning with R using the tidymodels framework, a collection of packages for modeling and machine learning using tidyverse principles. We will build, evaluate, and compare predictive models. Along the way, we’ll learn about key concepts in machine learning including overfitting and resampling. Learners will gain knowledge about good predictive modeling practices, as well as hands-on experience using tidymodels packages like parsnip, rsample, yardstick, and workflows.
 
-* [Material]()
+* [Material](https://workshops.tidymodels.org/)
 
 ### Toby Dylan Hocking: Using and contributing to the data.table package for efficient big data analysis
 
 data.table is one of the most efficient open-source in-memory data manipulation packages available today. First released to CRAN by Matt Dowle in 2006, it continues to grow in popularity, and now over 1400 other CRAN packages depend on data.table. This three hour tutorial will start with data reading from CSV, discuss basic and advanced data manipulation topics, and finally will end with a discussion about how you can contribute to data.table. In each part of the tutorial, you will be asked to solve a few exercises, to practice each new concept.
 
-* [Material]()
+* [Material](https://docs.google.com/presentation/d/1ypW1LUMmcrUTMF6B9h9s8qbvW5BSbN1IW6CEgqX01Co/edit#slide=id.p1)
 
 ### Dra. Dianne Cook: Creating data plots for effective decision-making using statistical inference with R
 
+#### Structure of tutorial
 
-* [Material]()
+Review of making effective plots using ggplot2’s grammar of graphics:
+
+  * Organising your data to enable mapping variables to graphical elements,
+  * Common plot descriptions as scripts,
+  * Do’s and don’ts following cognitive perception principles.
+
+Making decisions and inferential statements based on data plots
+
+  * What is your plot testing? Determining the hypothesis based on the type of plot.
+  * Creating null samples to build lineups for comparison and testing.
+  * Conducting a lineup test using your friends to determine whether what you see is real or spurious, and to determine the best design for your plot.
+
+* [Material](https://dicook.github.io/LatinR/)
 
 ### Riva Quiroga: Creación de reportes reproducibles con Quarto
 
 En este tutorial se hará una introducción a [Quarto](https://quarto.org/), un sistema de publicación científica y técnica que permite crear contenido dinámico usando R, Python, Julia y Observable. Durante la sesión se abordarán los aspectos generales de su uso para crear reportes con R, con especial énfasis en el trabajo en formato HTML. Para ello, se mostrará paso a paso cómo crear un reporte reproducible, cómo parametrizar su contenido, cómo editar su apariencia y cómo publicarlo utilizando GitHub Pages y Netlify.
 Para poder seguir sin problema las actividades del tutorial, es necesario tener algún grado de experiencia  con el operador "pipe" (en cualquiera de sus dos versiones: |> o |>), con las funciones principales del paquete dplyr (como filter, summarize y group_by) y con el paquete ggplot2 (por ejemplo, tener una idea general de qué hacen las funciones geom_* o saber cómo modificar la escala del eje "y" de un gráfico). Para quienes tengan interés en la publicación de un reporte utilizando el servicio GitHub Pages, es necesario tener al menos un manejo inicial de git (saber cómo hacer commits y enviar cambios a un repositorio personal)
 
-* [Material]()
 
 ### Agustin Perez Santangelo, Oriol Senan y Federico Rivadeneira: Introducción a Shiny - Buenas prácticas en un entorno de producción
 
@@ -679,5 +693,5 @@ El tutorial consistirá en la introducción de conceptos básicos haciendo foco 
 
 - Optimización y performance de una aplicación introduciendo paquetes y buenas prácticas.
 
-* [Material]()
+* [Material](https://github.com/Appsilon/latin-r-2023)
 
