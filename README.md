@@ -107,7 +107,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **IRMA NOEMI NO** [Website](https://flowto.it/PSjuZYqG) | [GitHub](https://github.com/irmanoemino) | [LinkedIn](https://www.linkedin.com/in/irmanoemino/)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/3_Twitter_y_Mujeres_STEM_An_li.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/3_Twitter_y_Mujeres_STEM_An_li.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/Twitter_y_Mujeres_STEM _Analisis_con_R_Charla_Relampago_IRMA_NOEMI_NO_LatinR2023.pdf)
 
 ---
 
@@ -218,7 +218,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Juan Pablo Ruiz Nicolini** [Website](https://tuqmano.ar/) | [GitHub](https://github.com/TuQmano/) | [LinkedIn](https://www.linkedin.com/in/juanpabloruiznicolini/) | [Twitter](https://twitter.com/tuqmano)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/54_geoAr_datos_y_herramientas_.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/54_geoAr_datos_y_herramientas_.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/geoAr - LatinR2023.pdf)
 
 ---
 
@@ -275,7 +275,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Sebastián Lucas**, **Richard Detomasi** [GitHub](https://github.com/RichDeto) | [LinkedIn](https://www.linkedin.com/in/richard-detomasi-691b242b/) | [Mastodon](https://fosstodon.org/@RichDeto) | [Twitter](https://twitter.com/RichardDetomasi)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/38_DADverse_Simplificando_el_p.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/)
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/38_DADverse_Simplificando_el_p.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/DADverse Simplificando el procesamiento de datos en ambientes de uso restringido_.pdf)
 
 ---
 
@@ -283,7 +283,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Santiago Nicotera** [LinkedIn](https://www.linkedin.com/in/santiago-nicotera-a8a65a1b7/), **Richard Detomasi** [GitHub](https://github.com/RichDeto), **Felipe Schnaiderman**
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/35_GPS_perfiles_Automatizaci_n.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/35_GPS_perfiles_Automatizaci_n.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/gpsperfiles.pdf)
 
 ---
 
@@ -579,7 +579,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Juan Pablo Ruiz Nicolini** [Website](https://tuqmano.ar/) | [GitHub](https://github.com/tuqmano) | [LinkedIn](https://www.linkedin.com/in/juanpabloruiznicolini/) | [Twitter](https://twitter.com/tuqmano), **Juan Gabriel Juara**, **Elián Soutullo** [LinkedIn](https://www.linkedin.com/in/eli%C3%A1n-soutullo/)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/55_Shiny_para_useRs_que_no_usa.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/55_Shiny_para_useRs_que_no_usa.pdf) - [Slides](https://d4t4tur.github.io/presentaciones/latinr2023.html)
 
 ---
 
@@ -632,7 +632,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Vernadet Bianchinotti** [GitHub](https://github.com/PecoTina) | [LinkedIn](https://www.linkedin.com/in/VernadetBianchinotti) | [Twitter](https://twitter.com/PeCoTiNa7), **Patricia González Vainer**, **Gonzalo Suárez** [GitHub](https://github.com/suarezveirano) | [LinkedIn](https://uy.linkedin.com/in/suarezveirano)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/86_Primera_aproximaci_n_al_efe.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/86_Primera_aproximaci_n_al_efe.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/VBianchinotti.pdf)
 
 
 ## Tutoriales
