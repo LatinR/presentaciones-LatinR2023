@@ -89,7 +89,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Elina Gómez Bonaglia** [Website](http://elinagomez.com) | [GitHub](https://github.com/elinagomez) | [LinkedIn](www.linkedin.com/in/elina-gómez-bonaglia-b160273a) | [Twitter](https://twitter.com/elinagomezb)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/23_Modelos_de_aprendizaje_estadistico_para_focalizar_programas.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/11_Modelos_de_aprendizaje_esta.pdf) - [Slides]()
 
 ---
 
@@ -97,7 +97,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Martin Rodriguez Nuñez** [GitHub](https://github.com/martinnnuez/Tesis-Doctorado) | [LinkedIn](https://www.linkedin.com/in/martinnnuez/)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/49_Analisis_de_contaminantes_atmosfericos_con_R.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/5_An_lisis_de_contaminantes_at.pdf) - [Slides]()
 
 ---
 
@@ -365,7 +365,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Bruno Tancredi**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/79_Aprendizaje_estad_stico_apl.pdf) - [Slides]()
 
 ---
 
@@ -373,7 +373,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Ignacio Lynch** [LinkedIn](https://www.linkedin.com/in/ignaciolynch/), **Mauricio Garcia** [LinkedIn](https://www.linkedin.com/in/mauriciogarciaquiroga/)
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/66_SWIRLIFY_CARPENTRIES_COURSE.pdf) - [Slides]()
 
 ---
 
@@ -423,7 +423,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Fabiola Aguilar Rojas** [GitHub](https://github.com/aguilarfabiola) | [LinkedIn](https://www.linkedin.com/in/fabiola-aguilar-rojas/), **Angela Arriagada Rivera** [LinkedIn](https://www.linkedin.com/in/angela-arriagada-rivera-316293274) | [Twitter](https://twitter.com/aarriagada_), **Marcelo Rodriguez Gallardo**, **Alejandra Tapia Silva**
 
-[Abstract]() - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/70_Uso_de_R_en_la_estimaci_n_d.pdf) - [Slides]()
 
 ---
 
@@ -633,16 +633,6 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 **Vernadet Bianchinotti** [GitHub](https://github.com/PecoTina) | [LinkedIn](https://www.linkedin.com/in/VernadetBianchinotti) | [Twitter](https://twitter.com/PeCoTiNa7), **Patricia González Vainer**, **Gonzalo Suárez** [GitHub](https://github.com/suarezveirano) | [LinkedIn](https://uy.linkedin.com/in/suarezveirano)
 
 [Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/86_Primera_aproximaci_n_al_efe.pdf) - [Slides]()
-
----
-
-
-### *Charla sponsor: RConsortium*
-
-**RConsortium** [Website](https://www.r-consortium.org/) | [LinkedIn](https://www.linkedin.com/company/r-consortium/) | [Mastodon](https://mastodon.social/@RConsortium@fosstodon.org) | [Twitter](https://twitter.com/Rconsortium)
-
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/92_Charla_sponsor_RConsortium.pdf) - [Slides]()
-
 
 
 ## Tutoriales
