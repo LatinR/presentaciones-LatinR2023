@@ -115,7 +115,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Paola Corrales** [Website](https://paocorrales.github.io/) | [GitHub](https://github.com/paocorrales) | [Mastodon](https://fosstodon.org/@paocorrales/)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/2_Convertite_en_R_Contributor_aportando.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/2_Convertite_en_R_Contributor_aportando.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/R_contributor_Nanton_corrales.html)
 
 ---
 
@@ -133,7 +133,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Ytzel Maya** [GitHub](https://github.com/ytzmaya) | [Twitter](https://twitter.com/ytzmaya)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/56_An_lisis_espacial_de_fosas_.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/56_An_lisis_espacial_de_fosas_.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/Presentacion_LatinR.pdf)
 
 
 #### *Diseño de un flujo de investigación usando R/Bioconductor para el estudio del melanoma cutáneo*
@@ -373,7 +373,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Ignacio Lynch** [LinkedIn](https://www.linkedin.com/in/ignaciolynch/), **Mauricio Garcia** [LinkedIn](https://www.linkedin.com/in/mauriciogarciaquiroga/)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/66_SWIRLIFY_CARPENTRIES_COURSE.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/66_SWIRLIFY_CARPENTRIES_COURSE.pdf) - [Slides]((https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/Swirlify_Carpentries_Course_pdf)
 
 ---
 
@@ -397,7 +397,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Martín Pratto Burgos** [Website](https://orcid.org/0000-0001-5197-3601)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/6_Uso_de_R_en_la_modelizaci_n_.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/6_Uso_de_R_en_la_modelizaci_n_.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/previaturas_UCs_grafos_LatinR.pdf)
 
 ---
 
@@ -465,7 +465,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Luis D. Verde Arregoitia** [Website](https://liomys.mx) | [GitHub](https://github.com/LuisDVA) | [Twitter](https://twitter.com/LuisDVerde)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/14_Mejorando_los_llamados_a_pa.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/14_Mejorando_los_llamados_a_pa.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/geoAr-LatinR2023.pdf)
 
 ---
 
@@ -473,7 +473,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Ariel Levy** [GitHub](https://github.com/Alevy59) | [LinkedIn](https://www.linkedin.com/in/ariel-levy-3623136/), **Beatriz Bertolino Oliver**, **Marcus Antonio Cardoso Ramalho** [Website](http://marcusramalho.tech/) | [GitHub](https://github.com/nextmarte) | [LinkedIn](https://www.linkedin.com/in/marcus-ramalho-8a440545/) | [Twitter](@nextmarcus)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/31_An_lise_de_correla_o_cruzad.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/31_An_lise_de_correla_o_cruzad.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/correlacao_cruzada_pdf)
 
 ---
 
@@ -481,7 +481,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Ariel Levy** [GitHub](https://github.com/Alevy59) | [LinkedIn](https://www.linkedin.com/in/ariel-levy-3623136/), **Luciane Ferreira Alcoforado** [GitHub](https://github.com/Lucianea) | [LinkedIn](https://www.linkedin.com/in/luciane-alcoforado-4a344a101/), **Marcus Antonio Cardoso Ramalho** [Website](http://marcusramalho.tech/) | [GitHub](https://github.com/nextmarte) | [LinkedIn](https://www.linkedin.com/in/marcus-ramalho-8a440545/) | [Twitter](@nextmarcus), **Orlando Celso Longo**
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/30_Pacotes_da_linguagem_R_para.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/30_Pacotes_da_linguagem_R_para.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/presentacion_latinr.pdf)
 
 ---
 
@@ -507,7 +507,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Mauricio Pittamiglio** [GitHub](https://github.com/Mauri14)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/40_Visualizador_de_indicadores.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/40_Visualizador_de_indicadores.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/Pittamiglio.pdf)
 
 ---
 
@@ -515,7 +515,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Santiago García Sánchez** [Website](https://sgs2000.github.io/) | [GitHub](https://github.com/SGS2000) | [LinkedIn](https://www.linkedin.com/in/santiago-garcia-sanchez-21b20a1a9/)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/10_Selector_de_temas_para_Ggpl.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/10_Selector_de_temas_para_Ggpl.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/selector_temas_ggplot.pptx)
 
 ---
 
@@ -539,7 +539,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Noelia Catellana**, **Fernando Javier Argento**, **Diego Marfetan Molina**
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/76_Shiny_app_para_meta_an_lisi.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/76_Shiny_app_para_meta_an_lisi.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/Shiny_LSR.pptx)
 
 ---
 
@@ -563,7 +563,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Patricia Loto** [GitHub](https://github.com/PatriLoto) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/) | [Twitter](https://twitter.com/patriloto), **Jesica Formoso** [GitHub](https://github.com/JFormoso) | [LinkedIn](https://www.linkedin.com/in/jesica-formoso-16ab4649/) | [Twitter](https://twitter.com/JesiFormoso), **Irene Vazano** [GitHub](https://github.com/4iro) | [LinkedIn](https://www.linkedin.com/in/irene-vazano/)
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/48_Mapeo_de_comunidades_organi.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/48_Mapeo_de_comunidades_organi.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/una_shiny_app_para_mapeo_ciencia_abierta_charla_corta.pdf)
 
 ---
 
@@ -624,7 +624,7 @@ by [Dr. Max Kuhn](https://www.rstudio.com/authors/max-kuhn/)
 
 **Guillermina Suárez**, **Lucía Rosich**, **Dinorah De León**, **Camila Muniz**, **Irina Sánchez**
 
-[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/18_Generaci_n_masiva_de_gr_fic.pdf) - [Slides]()
+[Abstract](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/18_Generaci_n_masiva_de_gr_fic.pdf) - [Slides](https://github.com/latinr/presentaciones-LatinR2023/blob/main/papers/slides/Rosich.pdf)
 
 ---
 
